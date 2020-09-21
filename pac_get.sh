@@ -2,7 +2,7 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
-PAC_URL="https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
+PAC_URL="https://cdn.jsdelivr.net/gh/Loukky/gfwlist-by-loukky/gfwlist.txt"
 Output_URL="pac.txt"
 prefix_suffix(){
 PAC_TAME="/*
